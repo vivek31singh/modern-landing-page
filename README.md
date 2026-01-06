@@ -1,2 +1,14 @@
 # modern-landing-page
-Modern Landing Page is a clean, high‑conversion marketing homepage with a bold hero, benefits/features, social proof, pricing, and clear CTAs. Responsive, fast, accessible, SEO‑ready, with dark mode and tasteful motion. Built via Dev Agents end‑to‑end.
+
+**Automated project built via Dev Agents.**
+
+This repository was initialized automatically.
+
+## Context Files
+The following documentation files contain the Golden Context for this project:
+- project_brief.md
+- technical_spec.md
+- implementation_plan.md
+- coding_guidelines.md
+
+Please refer to them for details.
