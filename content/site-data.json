@@ -1,7 +1,7 @@
 {
   "hero": {
-    "headline": "Build Beautiful Websites Faster Than Ever",
-    "subcopy": "The modern landing page template designed for speed, accessibility, and conversions. Start with our components and launch in minutes.",
+    "headline": "Build Modern Websites with Ease",
+    "subcopy": "Create stunning, high-performance landing pages in minutes. No coding required, just pure creativity.",
     "primaryCTA": {
       "label": "Get Started Free",
       "href": "#pricing"
@@ -11,8 +11,128 @@
       "href": "#features"
     }
   },
-  "features": [],
-  "testimonials": [],
-  "pricing": [],
-  "faq": []
+  "features": [
+    {
+      "id": "feature-1",
+      "icon": "Zap",
+      "title": "Lightning Fast",
+      "description": "Optimized for performance with sub-second load times and 90+ Lighthouse scores."
+    },
+    {
+      "id": "feature-2",
+      "icon": "Palette",
+      "title": "Beautiful Design",
+      "description": "Modern, responsive components with dark mode support built-in."
+    },
+    {
+      "id": "feature-3",
+      "icon": "Shield",
+      "title": "Secure by Default",
+      "description": "Enterprise-grade security with built-in authentication and data protection."
+    },
+    {
+      "id": "feature-4",
+      "icon": "Smartphone",
+      "title": "Mobile First",
+      "description": "Fully responsive design that works perfectly on any device."
+    },
+    {
+      "id": "feature-5",
+      "icon": "Globe",
+      "title": "SEO Optimized",
+      "description": "Built-in SEO best practices with structured data and meta tags."
+    },
+    {
+      "id": "feature-6",
+      "icon": "Code",
+      "title": "Developer Friendly",
+      "description": "Clean, well-documented code with TypeScript support for type safety."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Sarah Johnson",
+      "role": "CEO, TechStart",
+      "content": "This platform transformed our web development workflow. We launched 3x faster.",
+      "avatar": "/images/avatars/sarah.jpg"
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Michael Chen",
+      "role": "CTO, InnovateCo",
+      "content": "The performance improvements alone made it worth every penny. Highly recommended.",
+      "avatar": "/images/avatars/michael.jpg"
+    },
+    {
+      "id": "testimonial-3",
+      "name": "Emily Davis",
+      "role": "Product Manager, WebFlow",
+      "content": "Intuitive, powerful, and beautifully designed. Exactly what we needed.",
+      "avatar": "/images/avatars/emily.jpg"
+    }
+  ],
+  "pricing": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "price": "$0",
+      "period": "forever",
+      "features": [
+        "1 Website",
+        "Basic Analytics",
+        "Community Support",
+        "Free SSL Certificate"
+      ]
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "price": "$29",
+      "period": "month",
+      "popular": true,
+      "features": [
+        "Unlimited Websites",
+        "Advanced Analytics",
+        "Priority Support",
+        "Custom Domains",
+        "API Access"
+      ]
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "contact",
+      "features": [
+        "Everything in Pro",
+        "Dedicated Support",
+        "Custom Integrations",
+        "SLA Guarantee",
+        "White Labeling"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": "faq-1",
+      "question": "Is the Starter plan really free?",
+      "answer": "Yes! The Starter plan is completely free forever with no credit card required. It includes all essential features to get started."
+    },
+    {
+      "id": "faq-2",
+      "question": "Can I upgrade my plan later?",
+      "answer": "Absolutely! You can upgrade or downgrade your plan at any time. Changes take effect immediately and we'll prorate your billing."
+    },
+    {
+      "id": "faq-3",
+      "question": "Do you offer refunds?",
+      "answer": "We offer a 30-day money-back guarantee on all paid plans. If you're not satisfied, we'll refund your payment in full."
+    },
+    {
+      "id": "faq-4",
+      "question": "What kind of support do you provide?",
+      "answer": "We offer email support for all plans, with priority support for Pro users and dedicated support for Enterprise customers."
+    }
+  ]
 }
