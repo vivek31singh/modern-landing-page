@@ -1,147 +1,18 @@
 {
   "hero": {
-    "headline": "Build Something Amazing Today",
-    "subcopy": "Transform your ideas into reality with our powerful platform. Fast, reliable, and built for modern teams.",
+    "headline": "Build Beautiful Websites Faster Than Ever",
+    "subcopy": "The modern landing page template designed for speed, accessibility, and conversions. Start with our components and launch in minutes.",
     "primaryCTA": {
       "label": "Get Started Free",
       "href": "#pricing"
     },
     "secondaryCTA": {
-      "label": "Watch Demo",
+      "label": "View Documentation",
       "href": "#features"
     }
   },
-  "features": [
-    {
-      "id": "feature-1",
-      "icon": "Zap",
-      "title": "Lightning Fast",
-      "description": "Optimized for performance with instant load times and smooth interactions."
-    },
-    {
-      "id": "feature-2",
-      "icon": "Shield",
-      "title": "Secure by Default",
-      "description": "Enterprise-grade security with end-to-end encryption and compliance certifications."
-    },
-    {
-      "id": "feature-3",
-      "icon": "Layout",
-      "title": "Responsive Design",
-      "description": "Beautiful on any device with fluid layouts and adaptive components."
-    },
-    {
-      "id": "feature-4",
-      "icon": "Settings",
-      "title": "Easy Customization",
-      "description": "Tailor every aspect to match your brand with powerful configuration options."
-    },
-    {
-      "id": "feature-5",
-      "icon": "BarChart",
-      "title": "Advanced Analytics",
-      "description": "Gain insights with comprehensive dashboards and real-time metrics."
-    },
-    {
-      "id": "feature-6",
-      "icon": "Users",
-      "title": "Team Collaboration",
-      "description": "Work together seamlessly with real-time collaboration and sharing features."
-    }
-  ],
-  "testimonials": [
-    {
-      "id": "testimonial-1",
-      "name": "Sarah Johnson",
-      "role": "CEO, TechStart",
-      "content": "This platform has completely transformed how we work. The performance is incredible and the team loves it.",
-      "avatar": "/images/avatars/sarah.jpg"
-    },
-    {
-      "id": "testimonial-2",
-      "name": "Michael Chen",
-      "role": "Lead Developer, InnovateCo",
-      "content": "The developer experience is unmatched. Clean code, great documentation, and amazing support.",
-      "avatar": "/images/avatars/michael.jpg"
-    },
-    {
-      "id": "testimonial-3",
-      "name": "Emily Rodriguez",
-      "role": "Product Manager, ScaleUp",
-      "content": "We've seen a 40% increase in productivity since switching. The ROI has been phenomenal.",
-      "avatar": "/images/avatars/emily.jpg"
-    }
-  ],
-  "pricing": [
-    {
-      "id": "pricing-starter",
-      "name": "Starter",
-      "price": "$0",
-      "period": "forever",
-      "features": [
-        "Up to 3 projects",
-        "Basic analytics",
-        "Community support",
-        "1 team member"
-      ],
-      "popular": false
-    },
-    {
-      "id": "pricing-pro",
-      "name": "Pro",
-      "price": "$29",
-      "period": "per month",
-      "features": [
-        "Unlimited projects",
-        "Advanced analytics",
-        "Priority support",
-        "Up to 10 team members",
-        "Custom integrations",
-        "API access"
-      ],
-      "popular": true
-    },
-    {
-      "id": "pricing-enterprise",
-      "name": "Enterprise",
-      "price": "Custom",
-      "period": "contact sales",
-      "features": [
-        "Everything in Pro",
-        "Dedicated support",
-        "Unlimited team members",
-        "SLA guarantee",
-        "Custom contracts",
-        "On-premise deployment"
-      ],
-      "popular": false
-    }
-  ],
-  "faq": [
-    {
-      "id": "faq-1",
-      "question": "How do I get started?",
-      "answer": "Getting started is easy! Simply click the 'Get Started Free' button and create your account. You'll have access to all features in our Starter plan immediately."
-    },
-    {
-      "id": "faq-2",
-      "question": "Can I upgrade or downgrade my plan?",
-      "answer": "Yes, you can change your plan at any time. Upgrades take effect immediately, and downgrades will be applied at the end of your current billing cycle."
-    },
-    {
-      "id": "faq-3",
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit cards (Visa, Mastercard, American Express) and PayPal. For Enterprise plans, we also support bank transfers and invoicing."
-    },
-    {
-      "id": "faq-4",
-      "question": "Is there a free trial for paid plans?",
-      "answer": "Yes! We offer a 14-day free trial for our Pro plan. No credit card required. You'll have full access to all Pro features during the trial period."
-    },
-    {
-      "id": "faq-5",
-      "question": "How do I cancel my subscription?",
-      "answer": "You can cancel your subscription at any time from your account settings. Your access will continue until the end of your current billing period."
-    }
-  ]
+  "features": [],
+  "testimonials": [],
+  "pricing": [],
+  "faq": []
 }
