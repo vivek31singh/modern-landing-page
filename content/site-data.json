@@ -1,209 +1,204 @@
 {
   "hero": {
-    "headline": "Build Modern Websites with Ease",
-    "subcopy": "Create stunning, high-performance landing pages in minutes. No coding required, just pure creativity.",
+    "headline": "Build Better Products, Faster",
+    "subcopy": "The all-in-one platform that helps teams ship high-quality software with confidence. From ideation to deployment, we've got you covered.",
     "primaryCTA": {
       "label": "Get Started Free",
       "href": "#pricing"
     },
     "secondaryCTA": {
-      "label": "View Documentation",
+      "label": "Watch Demo",
       "href": "#features"
     }
   },
   "features": [
     {
-      "id": "feature-1",
-      "icon": "Zap",
-      "title": "Lightning Fast",
-      "description": "Optimized for speed with minimal bundle size and instant page loads."
-    },
-    {
-      "id": "feature-2",
-      "icon": "Shield",
-      "title": "Secure by Default",
-      "description": "Enterprise-grade security with end-to-end encryption and compliance."
-    },
-    {
-      "id": "feature-3",
-      "icon": "Palette",
-      "title": "Beautiful Design",
-      "description": "Modern, responsive templates that look great on any device."
-    },
-    {
-      "id": "feature-4",
-      "icon": "BarChart",
-      "title": "Analytics Built-in",
-      "description": "Track performance and user engagement with detailed insights."
-    },
-    {
-      "id": "feature-5",
-      "icon": "Globe",
-      "title": "Global CDN",
-      "description": "Deploy worldwide with automatic edge caching for instant access."
-    },
-    {
-      "id": "feature-6",
+      "id": "real-time-collaboration",
       "icon": "Users",
-      "title": "Team Collaboration",
-      "description": "Work together seamlessly with real-time collaboration features."
-    }
-  ],
-  "trustedBy": [
-    {
-      "name": "Acme Corp",
-      "logo": "/images/logos/acme.svg",
-      "width": 120,
-      "height": 32
+      "title": "Real-time Collaboration",
+      "description": "Work together seamlessly with your team. See changes instantly and stay in sync across all projects."
     },
     {
-      "name": "TechStart",
-      "logo": "/images/logos/techstart.svg",
-      "width": 140,
-      "height": 36
+      "id": "advanced-analytics",
+      "icon": "BarChart3",
+      "title": "Advanced Analytics",
+      "description": "Get deep insights into your product performance with our comprehensive analytics dashboard."
     },
     {
-      "name": "InnovateCo",
-      "logo": "/images/logos/innovateco.svg",
-      "width": 130,
-      "height": 34
+      "id": "secure-infrastructure",
+      "icon": "Shield",
+      "title": "Secure Infrastructure",
+      "description": "Enterprise-grade security with SOC 2 compliance, end-to-end encryption, and automated backups."
     },
     {
-      "name": "FutureLabs",
-      "logo": "/images/logos/futurelabs.svg",
-      "width": 115,
-      "height": 30
+      "id": "api-integrations",
+      "icon": "Zap",
+      "title": "API Integrations",
+      "description": "Connect with 100+ tools and services. Our robust API makes custom integrations a breeze."
     },
     {
-      "name": "DataFlow",
-      "logo": "/images/logos/dataflow.svg",
-      "width": 125,
-      "height": 32
+      "id": "automated-workflows",
+      "icon": "Workflow",
+      "title": "Automated Workflows",
+      "description": "Streamline your processes with intelligent automation. Save time and reduce manual errors."
     },
     {
-      "name": "CloudNine",
-      "logo": "/images/logos/cloudnine.svg",
-      "width": 135,
-      "height": 35
+      "id": "24-7-support",
+      "icon": "Headphones",
+      "title": "24/7 Support",
+      "description": "Our dedicated support team is always ready to help you succeed, no matter the time zone."
     }
   ],
   "testimonials": [
     {
       "id": "testimonial-1",
       "name": "Sarah Johnson",
-      "role": "CEO at TechStart",
-      "content": "This platform transformed how we build and deploy our landing pages. What used to take days now takes minutes. Absolutely game-changing for our marketing team.",
-      "avatar": "/images/avatars/sarah.jpg"
+      "role": "CTO at TechStart",
+      "content": "This platform has transformed how our team works. We've reduced our deployment time by 60% and shipping features has never been easier.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah"
     },
     {
       "id": "testimonial-2",
       "name": "Michael Chen",
-      "role": "Product Lead at InnovateCo",
-      "content": "The performance optimizations are incredible. Our page load times dropped by 60% after migrating. Our conversion rates have never been better.",
-      "avatar": "/images/avatars/michael.jpg"
+      "role": "Product Manager at InnovateCo",
+      "content": "The analytics and insights provided are invaluable. We've made data-driven decisions that boosted our conversion rates significantly.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Michael"
     },
     {
       "id": "testimonial-3",
       "name": "Emily Rodriguez",
-      "role": "Marketing Director at Acme Corp",
-      "content": "Finally, a tool that bridges the gap between design and development. Our campaigns launch faster, and the results speak for themselves.",
-      "avatar": "/images/avatars/emily.jpg"
-    },
-    {
-      "id": "testimonial-4",
-      "name": "David Kim",
-      "role": "Founder at FutureLabs",
-      "content": "The template system is brilliant. We maintain brand consistency while still creating unique experiences for each product launch.",
-      "avatar": "/images/avatars/david.jpg"
-    },
-    {
-      "id": "testimonial-5",
-      "name": "Jessica Taylor",
-      "role": "Growth Manager at DataFlow",
-      "content": "A/B testing different landing pages has never been easier. We've increased our sign-up rate by 40% in just three months.",
-      "avatar": "/images/avatars/jessica.jpg"
-    },
-    {
-      "id": "testimonial-6",
-      "name": "Alex Thompson",
-      "role": "CTO at CloudNine",
-      "content": "The developer experience is top-notch. Clean code, excellent documentation, and the support team is incredibly responsive.",
-      "avatar": "/images/avatars/alex.jpg"
+      "role": "Lead Developer at ScaleUp",
+      "content": "Best developer experience I've had in years. The API is well-documented, integrations are smooth, and the support team is incredibly responsive.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily"
     }
   ],
   "pricing": [
     {
-      "id": "pricing-1",
+      "id": "starter",
       "name": "Starter",
-      "price": "$29",
-      "period": "/month",
-      "description": "Perfect for individuals and small projects",
+      "price": "$0",
+      "description": "Perfect for individuals and small projects.",
       "features": [
-        "Up to 3 landing pages",
-        "Basic templates",
-        "Email support",
-        "Analytics dashboard",
-        "Custom domain"
-      ]
+        "Up to 3 projects",
+        "Basic analytics",
+        "Community support",
+        "1 team member",
+        "Not: Custom integrations",
+        "Not: Priority support"
+      ],
+      "cta": {
+        "label": "Start Free",
+        "href": "#signup"
+      }
     },
     {
-      "id": "pricing-2",
+      "id": "pro",
       "name": "Pro",
-      "price": "$79",
-      "period": "/month",
-      "description": "Best for growing businesses and teams",
+      "price": "$29",
+      "description": "For growing teams that need more power.",
       "features": [
-        "Unlimited landing pages",
-        "Advanced templates",
-        "Priority support",
+        "Unlimited projects",
         "Advanced analytics",
-        "Custom domain",
-        "Team collaboration",
-        "A/B testing"
+        "Priority email support",
+        "Up to 10 team members",
+        "Custom integrations",
+        "API access"
       ],
+      "cta": {
+        "label": "Get Pro",
+        "href": "#signup"
+      },
       "popular": true
     },
     {
-      "id": "pricing-3",
+      "id": "enterprise",
       "name": "Enterprise",
       "price": "Custom",
-      "period": "",
-      "description": "For large organizations with custom needs",
+      "description": "For large organizations with specific needs.",
       "features": [
         "Everything in Pro",
-        "Custom integrations",
-        "Dedicated support",
-        "SSO & advanced security",
+        "Unlimited team members",
+        "Dedicated account manager",
+        "SLA guarantee",
         "Custom contracts",
-        "SLA guarantee"
-      ]
+        "On-premise deployment"
+      ],
+      "cta": {
+        "label": "Contact Sales",
+        "href": "#contact"
+      }
     }
   ],
   "faq": [
     {
       "id": "faq-1",
-      "question": "How long does it take to create a landing page?",
-      "answer": "With our platform, you can create a professional landing page in under 15 minutes. Simply choose a template, customize the content, and publish. No coding required."
+      "question": "Can I change my plan later?",
+      "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate your billing accordingly."
     },
     {
       "id": "faq-2",
-      "question": "Can I use my own domain?",
-      "answer": "Yes! You can connect your custom domain to any landing page. We also provide free SSL certificates for all domains, ensuring your site is secure."
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for Enterprise customers."
     },
     {
       "id": "faq-3",
-      "question": "Is there a free trial available?",
-      "answer": "Absolutely! We offer a 14-day free trial on all plans. No credit card required. You'll have access to all features so you can fully evaluate the platform."
+      "question": "Is there a free trial?",
+      "answer": "Yes! All paid plans come with a 14-day free trial. No credit card required to start."
     },
     {
       "id": "faq-4",
-      "question": "Can I export my landing pages?",
-      "answer": "Yes, you can export your landing pages as static HTML/CSS files at any time. You maintain full ownership and control of your content."
+      "question": "Do you offer refunds?",
+      "answer": "We offer a 30-day money-back guarantee. If you're not satisfied with our service, contact our support team for a full refund."
     },
     {
       "id": "faq-5",
-      "question": "What kind of support do you offer?",
-      "answer": "We offer email support for all plans, with priority support for Pro and Enterprise customers. Enterprise plans also include dedicated account managers and 24/7 phone support."
+      "question": "Can I cancel anytime?",
+      "answer": "Absolutely. You can cancel your subscription at any time from your account settings. Your access will continue until the end of your billing period."
     }
-  ]
+  ],
+  "pricingSection": {
+    "headline": "Simple, Transparent Pricing",
+    "subcopy": "Choose the perfect plan for your needs. All plans include a 14-day free trial.",
+    "footer": "All prices are in USD. Cancel anytime."
+  },
+  "newsletter": {
+    "headline": "Stay Updated",
+    "subcopy": "Get the latest news, updates, and tips delivered straight to your inbox.",
+    "placeholder": "Enter your email",
+    "buttonText": "Subscribe"
+  },
+  "footer": {
+    "company": {
+      "name": "ModernLanding",
+      "description": "Building the future of product development tools."
+    },
+    "links": [
+      {
+        "title": "Product",
+        "items": [
+          { "label": "Features", "href": "#features" },
+          { "label": "Pricing", "href": "#pricing" },
+          { "label": "Integrations", "href": "#" },
+          { "label": "Changelog", "href": "#" }
+        ]
+      },
+      {
+        "title": "Company",
+        "items": [
+          { "label": "About", "href": "#" },
+          { "label": "Blog", "href": "#" },
+          { "label": "Careers", "href": "#" },
+          { "label": "Contact", "href": "#" }
+        ]
+      },
+      {
+        "title": "Legal",
+        "items": [
+          { "label": "Privacy", "href": "#" },
+          { "label": "Terms", "href": "#" },
+          { "label": "Security", "href": "#" }
+        ]
+      }
+    ]
+  }
 }
