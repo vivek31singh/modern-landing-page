@@ -1,158 +1,179 @@
 {
   "hero": {
-    "headline": "Build Something Amazing Today",
-    "subcopy": "Transform your ideas into reality with our powerful platform. Simple, fast, and designed for modern teams.",
+    "headline": "Build Modern Web Experiences",
+    "subcopy": "Create stunning, high-performance websites with our powerful platform. From landing pages to complex applications, we've got you covered.",
     "primaryCTA": {
-      "label": "Get Started",
+      "label": "Get Started Free",
       "href": "#pricing"
     },
     "secondaryCTA": {
-      "label": "Learn More",
+      "label": "View Documentation",
       "href": "#features"
     }
   },
   "features": [
     {
-      "id": "feature-1",
+      "id": "lightning-fast",
       "icon": "Zap",
       "title": "Lightning Fast",
-      "description": "Optimized performance ensures your applications run at blazing speeds with minimal latency."
+      "description": "Optimized for speed with sub-second load times and instant page transitions."
     },
     {
-      "id": "feature-2",
-      "icon": "Shield",
-      "title": "Secure by Default",
-      "description": "Enterprise-grade security with end-to-end encryption and compliance certifications."
+      "id": "responsive",
+      "icon": "Smartphone",
+      "title": "Fully Responsive",
+      "description": "Pixel-perfect on every device, from mobile phones to large desktop displays."
     },
     {
-      "id": "feature-3",
-      "icon": "Globe",
-      "title": "Global Scale",
-      "description": "Deploy worldwide with our distributed network that scales automatically with your needs."
+      "id": "accessible",
+      "icon": "UniversalAccess",
+      "title": "Accessible",
+      "description": "Built with WCAG AA standards ensuring your content is available to everyone."
     },
     {
-      "id": "feature-4",
-      "icon": "Sparkles",
-      "title": "Beautiful Design",
-      "description": "Stunning, responsive components that look perfect on any device or screen size."
+      "id": "seo-friendly",
+      "icon": "TrendingUp",
+      "title": "SEO Optimized",
+      "description": "Automatic metadata generation and structured data for better search rankings."
     },
     {
-      "id": "feature-5",
-      "icon": "Settings",
-      "title": "Easy Integration",
-      "description": "Connect with your favorite tools and services with just a few lines of code."
+      "id": "dark-mode",
+      "icon": "Moon",
+      "title": "Dark Mode",
+      "description": "Beautiful dark theme with system preference detection and manual toggle."
     },
     {
-      "id": "feature-6",
+      "id": "analytics",
       "icon": "BarChart",
-      "title": "Analytics Built-in",
-      "description": "Track performance and user behavior with comprehensive, real-time analytics."
+      "title": "Built-in Analytics",
+      "description": "Track user engagement with privacy-first analytics integration."
     }
   ],
   "testimonials": [
     {
       "id": "testimonial-1",
       "name": "Sarah Johnson",
-      "role": "CEO, TechCorp",
-      "content": "This platform has completely transformed how we build and ship products. It's a game-changer for our team.",
+      "role": "Product Manager at TechCorp",
+      "content": "This platform transformed how we build landing pages. The speed and ease of use are unmatched. We launched our campaign in half the expected time.",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah"
     },
     {
       "id": "testimonial-2",
       "name": "Michael Chen",
-      "role": "CTO, StartupXYZ",
-      "content": "The developer experience is exceptional. We reduced our time-to-market by 60%.",
+      "role": "Founder of StartupX",
+      "content": "The dark mode implementation is flawless, and the performance scores are consistently in the 90s. Highly recommended for any serious developer.",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Michael"
     },
     {
       "id": "testimonial-3",
-      "name": "Emily Davis",
-      "role": "Product Manager, InnovateCo",
-      "content": "Finally, a platform that understands what modern teams need. Absolutely love it!",
+      "name": "Emily Rodriguez",
+      "role": "Lead Designer at DesignCo",
+      "content": "Finally, a platform that understands both design and development needs. The component system makes maintaining brand consistency effortless.",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily"
     }
   ],
+  "socialProof": {
+    "headline": "Trusted by innovative companies worldwide",
+    "logos": ["Acme Inc", "TechFlow", "Innovate", "LaunchPad", "GrowthCo"]
+  },
   "pricing": [
     {
-      "id": "pricing-starter",
+      "id": "starter",
       "name": "Starter",
-      "price": "$29",
-      "period": "month",
-      "description": "Perfect for individuals and small projects",
+      "price": "Free",
+      "description": "Perfect for personal projects and small websites",
       "features": [
-        "Up to 5 projects",
-        "10GB storage",
-        "Basic analytics",
-        "Email support",
-        "Community access"
+        "Up to 3 pages",
+        "Basic templates",
+        "Community support",
+        "SSL certificate",
+        "99.9% uptime"
       ],
+      "cta": {
+        "label": "Get Started",
+        "href": "#"
+      },
       "popular": false
     },
     {
-      "id": "pricing-pro",
-      "name": "Professional",
-      "price": "$79",
-      "period": "month",
-      "description": "Best for growing teams and businesses",
+      "id": "pro",
+      "name": "Pro",
+      "price": "$29",
+      "period": "/month",
+      "description": "Best for growing businesses and startups",
       "features": [
-        "Unlimited projects",
-        "100GB storage",
-        "Advanced analytics",
+        "Unlimited pages",
+        "Premium templates",
         "Priority support",
-        "Team collaboration",
-        "Custom integrations",
+        "Custom domains",
+        "Analytics dashboard",
         "API access"
       ],
+      "cta": {
+        "label": "Start Free Trial",
+        "href": "#"
+      },
       "popular": true
     },
     {
-      "id": "pricing-enterprise",
+      "id": "enterprise",
       "name": "Enterprise",
-      "price": "$199",
-      "period": "month",
-      "description": "For large organizations with custom needs",
+      "price": "Custom",
+      "description": "For large teams with specific requirements",
       "features": [
         "Everything in Pro",
-        "Unlimited storage",
         "Dedicated support",
+        "Custom integrations",
         "SLA guarantee",
         "Advanced security",
-        "Custom contracts",
-        "On-premise deployment"
+        "White-label options"
       ],
+      "cta": {
+        "label": "Contact Sales",
+        "href": "#"
+      },
       "popular": false
     }
   ],
   "faq": [
     {
       "id": "faq-1",
-      "question": "How do I get started with your platform?",
-      "answer": "Getting started is easy! Simply sign up for an account, choose a plan that fits your needs, and follow our interactive onboarding guide. You'll have your first project up and running in minutes."
+      "question": "How do I get started with the platform?",
+      "answer": "Getting started is easy! Simply create an account, choose a template that fits your needs, and start customizing. Our drag-and-drop interface makes it simple to build your site in minutes."
     },
     {
       "id": "faq-2",
-      "question": "Can I change my plan later?",
-      "answer": "Absolutely! You can upgrade or downgrade your plan at any time from your account settings. Changes take effect immediately, and we'll prorate any charges or credits accordingly."
+      "question": "Can I use my own custom domain?",
+      "answer": "Yes! On Pro and Enterprise plans, you can connect your own custom domain. We also provide free SSL certificates for all custom domains to ensure your site is secure."
     },
     {
       "id": "faq-3",
-      "question": "What kind of support do you offer?",
-      "answer": "We offer multiple support tiers depending on your plan. All users get access to our community forum and email support. Pro users receive priority email responses, and Enterprise customers get dedicated support with guaranteed response times."
+      "question": "Is my data secure on your platform?",
+      "answer": "Absolutely. We use industry-standard encryption, regular security audits, and comply with GDPR and SOC 2 standards. Your data is stored in secure, redundant data centers."
     },
     {
       "id": "faq-4",
-      "question": "Is my data secure?",
-      "answer": "Security is our top priority. We use industry-standard encryption, regular security audits, and comply with GDPR, SOC 2, and HIPAA standards. Your data is backed up daily and stored in secure, redundant data centers."
+      "question": "Can I export my site code?",
+      "answer": "Yes, all plans include the ability to export your site as clean, optimized HTML/CSS/JavaScript code. This gives you full ownership and flexibility to host anywhere."
     },
     {
       "id": "faq-5",
-      "question": "Do you offer a free trial?",
-      "answer": "Yes! We offer a 14-day free trial on all plans. No credit card required. You'll have full access to all features so you can experience everything our platform has to offer before committing."
+      "question": "What kind of support do you offer?",
+      "answer": "We offer community support for all users, priority email support for Pro users, and dedicated account managers for Enterprise customers with 24/7 phone support available."
     },
     {
       "id": "faq-6",
-      "question": "Can I cancel my subscription anytime?",
-      "answer": "Yes, you can cancel your subscription at any time with no questions asked. Your access will continue until the end of your current billing period, and you won't be charged again."
+      "question": "Do you offer a money-back guarantee?",
+      "answer": "Yes! We offer a 14-day free trial on all paid plans. If you're not satisfied within the first 30 days of your paid subscription, we'll provide a full refund, no questions asked."
     }
-  ]
+  ],
+  "newsletter": {
+    "headline": "Stay in the Loop",
+    "description": "Subscribe to our newsletter for the latest updates, tips, and exclusive content delivered straight to your inbox.",
+    "inputLabel": "Email Address",
+    "inputPlaceholder": "Enter your email",
+    "buttonLabel": "Subscribe",
+    "successMessage": "Thanks for subscribing! Check your inbox for confirmation.",
+    "errorMessage": "Something went wrong. Please try again later."
+  }
 }
