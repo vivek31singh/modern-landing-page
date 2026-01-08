@@ -1,204 +1,158 @@
 {
   "hero": {
-    "headline": "Build Better Products, Faster",
-    "subcopy": "The all-in-one platform that helps teams ship high-quality software with confidence. From ideation to deployment, we've got you covered.",
+    "headline": "Build Something Amazing Today",
+    "subcopy": "Transform your ideas into reality with our powerful platform. Simple, fast, and designed for modern teams.",
     "primaryCTA": {
-      "label": "Get Started Free",
+      "label": "Get Started",
       "href": "#pricing"
     },
     "secondaryCTA": {
-      "label": "Watch Demo",
+      "label": "Learn More",
       "href": "#features"
     }
   },
   "features": [
     {
-      "id": "real-time-collaboration",
-      "icon": "Users",
-      "title": "Real-time Collaboration",
-      "description": "Work together seamlessly with your team. See changes instantly and stay in sync across all projects."
-    },
-    {
-      "id": "advanced-analytics",
-      "icon": "BarChart3",
-      "title": "Advanced Analytics",
-      "description": "Get deep insights into your product performance with our comprehensive analytics dashboard."
-    },
-    {
-      "id": "secure-infrastructure",
-      "icon": "Shield",
-      "title": "Secure Infrastructure",
-      "description": "Enterprise-grade security with SOC 2 compliance, end-to-end encryption, and automated backups."
-    },
-    {
-      "id": "api-integrations",
+      "id": "feature-1",
       "icon": "Zap",
-      "title": "API Integrations",
-      "description": "Connect with 100+ tools and services. Our robust API makes custom integrations a breeze."
+      "title": "Lightning Fast",
+      "description": "Optimized performance ensures your applications run at blazing speeds with minimal latency."
     },
     {
-      "id": "automated-workflows",
-      "icon": "Workflow",
-      "title": "Automated Workflows",
-      "description": "Streamline your processes with intelligent automation. Save time and reduce manual errors."
+      "id": "feature-2",
+      "icon": "Shield",
+      "title": "Secure by Default",
+      "description": "Enterprise-grade security with end-to-end encryption and compliance certifications."
     },
     {
-      "id": "24-7-support",
-      "icon": "Headphones",
-      "title": "24/7 Support",
-      "description": "Our dedicated support team is always ready to help you succeed, no matter the time zone."
+      "id": "feature-3",
+      "icon": "Globe",
+      "title": "Global Scale",
+      "description": "Deploy worldwide with our distributed network that scales automatically with your needs."
+    },
+    {
+      "id": "feature-4",
+      "icon": "Sparkles",
+      "title": "Beautiful Design",
+      "description": "Stunning, responsive components that look perfect on any device or screen size."
+    },
+    {
+      "id": "feature-5",
+      "icon": "Settings",
+      "title": "Easy Integration",
+      "description": "Connect with your favorite tools and services with just a few lines of code."
+    },
+    {
+      "id": "feature-6",
+      "icon": "BarChart",
+      "title": "Analytics Built-in",
+      "description": "Track performance and user behavior with comprehensive, real-time analytics."
     }
   ],
   "testimonials": [
     {
       "id": "testimonial-1",
       "name": "Sarah Johnson",
-      "role": "CTO at TechStart",
-      "content": "This platform has transformed how our team works. We've reduced our deployment time by 60% and shipping features has never been easier.",
+      "role": "CEO, TechCorp",
+      "content": "This platform has completely transformed how we build and ship products. It's a game-changer for our team.",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah"
     },
     {
       "id": "testimonial-2",
       "name": "Michael Chen",
-      "role": "Product Manager at InnovateCo",
-      "content": "The analytics and insights provided are invaluable. We've made data-driven decisions that boosted our conversion rates significantly.",
+      "role": "CTO, StartupXYZ",
+      "content": "The developer experience is exceptional. We reduced our time-to-market by 60%.",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Michael"
     },
     {
       "id": "testimonial-3",
-      "name": "Emily Rodriguez",
-      "role": "Lead Developer at ScaleUp",
-      "content": "Best developer experience I've had in years. The API is well-documented, integrations are smooth, and the support team is incredibly responsive.",
+      "name": "Emily Davis",
+      "role": "Product Manager, InnovateCo",
+      "content": "Finally, a platform that understands what modern teams need. Absolutely love it!",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emily"
     }
   ],
   "pricing": [
     {
-      "id": "starter",
+      "id": "pricing-starter",
       "name": "Starter",
-      "price": "$0",
-      "description": "Perfect for individuals and small projects.",
+      "price": "$29",
+      "period": "month",
+      "description": "Perfect for individuals and small projects",
       "features": [
-        "Up to 3 projects",
+        "Up to 5 projects",
+        "10GB storage",
         "Basic analytics",
-        "Community support",
-        "1 team member",
-        "Not: Custom integrations",
-        "Not: Priority support"
+        "Email support",
+        "Community access"
       ],
-      "cta": {
-        "label": "Start Free",
-        "href": "#signup"
-      }
+      "popular": false
     },
     {
-      "id": "pro",
-      "name": "Pro",
-      "price": "$29",
-      "description": "For growing teams that need more power.",
+      "id": "pricing-pro",
+      "name": "Professional",
+      "price": "$79",
+      "period": "month",
+      "description": "Best for growing teams and businesses",
       "features": [
         "Unlimited projects",
+        "100GB storage",
         "Advanced analytics",
-        "Priority email support",
-        "Up to 10 team members",
+        "Priority support",
+        "Team collaboration",
         "Custom integrations",
         "API access"
       ],
-      "cta": {
-        "label": "Get Pro",
-        "href": "#signup"
-      },
       "popular": true
     },
     {
-      "id": "enterprise",
+      "id": "pricing-enterprise",
       "name": "Enterprise",
-      "price": "Custom",
-      "description": "For large organizations with specific needs.",
+      "price": "$199",
+      "period": "month",
+      "description": "For large organizations with custom needs",
       "features": [
         "Everything in Pro",
-        "Unlimited team members",
-        "Dedicated account manager",
+        "Unlimited storage",
+        "Dedicated support",
         "SLA guarantee",
+        "Advanced security",
         "Custom contracts",
         "On-premise deployment"
       ],
-      "cta": {
-        "label": "Contact Sales",
-        "href": "#contact"
-      }
+      "popular": false
     }
   ],
   "faq": [
     {
       "id": "faq-1",
-      "question": "Can I change my plan later?",
-      "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate your billing accordingly."
+      "question": "How do I get started with your platform?",
+      "answer": "Getting started is easy! Simply sign up for an account, choose a plan that fits your needs, and follow our interactive onboarding guide. You'll have your first project up and running in minutes."
     },
     {
       "id": "faq-2",
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers for Enterprise customers."
+      "question": "Can I change my plan later?",
+      "answer": "Absolutely! You can upgrade or downgrade your plan at any time from your account settings. Changes take effect immediately, and we'll prorate any charges or credits accordingly."
     },
     {
       "id": "faq-3",
-      "question": "Is there a free trial?",
-      "answer": "Yes! All paid plans come with a 14-day free trial. No credit card required to start."
+      "question": "What kind of support do you offer?",
+      "answer": "We offer multiple support tiers depending on your plan. All users get access to our community forum and email support. Pro users receive priority email responses, and Enterprise customers get dedicated support with guaranteed response times."
     },
     {
       "id": "faq-4",
-      "question": "Do you offer refunds?",
-      "answer": "We offer a 30-day money-back guarantee. If you're not satisfied with our service, contact our support team for a full refund."
+      "question": "Is my data secure?",
+      "answer": "Security is our top priority. We use industry-standard encryption, regular security audits, and comply with GDPR, SOC 2, and HIPAA standards. Your data is backed up daily and stored in secure, redundant data centers."
     },
     {
       "id": "faq-5",
-      "question": "Can I cancel anytime?",
-      "answer": "Absolutely. You can cancel your subscription at any time from your account settings. Your access will continue until the end of your billing period."
-    }
-  ],
-  "pricingSection": {
-    "headline": "Simple, Transparent Pricing",
-    "subcopy": "Choose the perfect plan for your needs. All plans include a 14-day free trial.",
-    "footer": "All prices are in USD. Cancel anytime."
-  },
-  "newsletter": {
-    "headline": "Stay Updated",
-    "subcopy": "Get the latest news, updates, and tips delivered straight to your inbox.",
-    "placeholder": "Enter your email",
-    "buttonText": "Subscribe"
-  },
-  "footer": {
-    "company": {
-      "name": "ModernLanding",
-      "description": "Building the future of product development tools."
+      "question": "Do you offer a free trial?",
+      "answer": "Yes! We offer a 14-day free trial on all plans. No credit card required. You'll have full access to all features so you can experience everything our platform has to offer before committing."
     },
-    "links": [
-      {
-        "title": "Product",
-        "items": [
-          { "label": "Features", "href": "#features" },
-          { "label": "Pricing", "href": "#pricing" },
-          { "label": "Integrations", "href": "#" },
-          { "label": "Changelog", "href": "#" }
-        ]
-      },
-      {
-        "title": "Company",
-        "items": [
-          { "label": "About", "href": "#" },
-          { "label": "Blog", "href": "#" },
-          { "label": "Careers", "href": "#" },
-          { "label": "Contact", "href": "#" }
-        ]
-      },
-      {
-        "title": "Legal",
-        "items": [
-          { "label": "Privacy", "href": "#" },
-          { "label": "Terms", "href": "#" },
-          { "label": "Security", "href": "#" }
-        ]
-      }
-    ]
-  }
+    {
+      "id": "faq-6",
+      "question": "Can I cancel my subscription anytime?",
+      "answer": "Yes, you can cancel your subscription at any time with no questions asked. Your access will continue until the end of your current billing period, and you won't be charged again."
+    }
+  ]
 }
